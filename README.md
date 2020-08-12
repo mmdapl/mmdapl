@@ -1,27 +1,30 @@
-### 🌱项目介绍
+### 代码维护
 
-待整理.
-
-### 🤔代码开源
+#### 🤔开源
 
 - **「bilibili-reptile」** https://github.com/mmdapl/bilibili-reptile
 - **「project-display」** https://github.com/mmdapl/project-display
 
-#### ⚡主推仓库
+#### ⚡仓库
+
+> 利用业余时间，结合工作经验，以JavaScript和CS专业课为主题，持续维护的知识文档仓库，仓库内文章会有选择性的发表于博客平台及公众号【Rong姐姐好可爱】
 
 - **「 JavaScriptCollection」**  https://github.com/mmdapl/JavaScriptCollection
 
 - **「408CSFamily」**  https://github.com/mmdapl/408CSFamily
 
-#### ⚡开源插件
+#### ⚡插件
 
 - **「egg-sequelize-plus」**  https://github.com/mmdapl/egg-sequelize-plus
 - **「egg-axios-plus」**  https://github.com/mmdapl/egg-axios-plus
 - **「grpc相关」**  doing..
 
-#### ⚡日常项目
+#### 🌱项目
 
 > 待整理
+
+- 工作项目
+- 日常项目
 
 ### 💬 联系方式
 
