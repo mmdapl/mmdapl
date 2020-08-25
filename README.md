@@ -36,6 +36,6 @@
 - **「Bilibili 」** https://space.bilibili.com/350937042
 - **「Github」** https://github.com/mmdapl
 - **「CSDN 」** https://blog.csdn.net/Mmdapl
-- **「掘       金」** https://juejin.im/user/448256476724807
+- **「JUE JIN」** https://juejin.im/user/448256476724807
 - **「公众号 」** Rong姐姐好可爱
 
