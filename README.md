@@ -4,7 +4,7 @@
  * @Author: 【B站&公众号】Rong姐姐好可爱
  * @Date: 2020-08-02 00:05:49
  * @LastEditors: 【B站&公众号】Rong姐姐好可爱
- * @LastEditTime: 2021-04-08 22:42:16
+ * @LastEditTime: 2021-04-08 22:51:50
 -->
 ## 我在做哪些事情？
 
@@ -15,11 +15,13 @@
 
 ### 维护仓库
 
-> 利用业余时间，结合工作经验，以JavaScript和CS专业课为主题，持续维护的知识文档型仓库，仓库内文章会有选择性的发表于博客平台及公众号【Rong姐姐好可爱】
-
-- **「 JavaScriptCollection」**  https://github.com/mmdapl/JavaScriptCollection
+> 利用业余时间，结合工作经验，以JavaScript和CS专业课为主题，持续维护的知识文档型仓库，仓库内文章会有选择性发表于博客和公众号平台
 
 - **「408CSFamily」**  https://github.com/mmdapl/408CSFamily
+  
+- **「 JavaScriptCollection」**  https://github.com/mmdapl/JavaScriptCollection
+
+
 
 ### Egg插件
 
