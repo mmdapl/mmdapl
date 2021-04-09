@@ -4,7 +4,7 @@
  * @Author: 【B站&公众号】Rong姐姐好可爱
  * @Date: 2020-08-02 00:05:49
  * @LastEditors: 【B站&公众号】Rong姐姐好可爱
- * @LastEditTime: 2021-04-09 22:48:43
+ * @LastEditTime: 2021-04-09 23:15:32
 -->
 ## 我在做哪些事情？
 
@@ -17,17 +17,17 @@
 
 > 利用业余时间，结合工作经验，以JavaScript和CS专业课为主题，持续维护的知识文档型仓库，仓库内文章会有选择性发表于博客和公众号平台
 
-- **「408CSFamily」**  https://github.com/mmdapl/408CSFamily
+- `408CSFamily`  https://github.com/mmdapl/408CSFamily
   
-- **「 JavaScriptCollection」**  https://github.com/mmdapl/JavaScriptCollection
+- `JavaScriptCollection` https://github.com/mmdapl/JavaScriptCollection
 
 
 
 ## Egg插件
 
-- **「egg-sequelize-plus」**  https://github.com/mmdapl/egg-sequelize-plus
-- **「egg-axios-plus」**  https://github.com/mmdapl/egg-axios-plus
-- **「grpc相关」**  doing..
+- `egg-sequelize-plus` https://github.com/mmdapl/egg-sequelize-plus
+- `egg-axios-plus`  https://github.com/mmdapl/egg-axios-plus
+- `grpc相关`  doing..
 
 ## 项目经历
 
