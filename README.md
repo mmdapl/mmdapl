@@ -4,7 +4,7 @@
  * @Author: 【B站&公众号】Rong姐姐好可爱
  * @Date: 2020-08-02 00:05:49
  * @LastEditors: 【B站&公众号】Rong姐姐好可爱
- * @LastEditTime: 2021-04-09 23:15:32
+ * @LastEditTime: 2021-04-09 23:18:54
 -->
 ## 我在做哪些事情？
 
@@ -50,5 +50,5 @@
 - `哔哩哔哩` https://space.bilibili.com/350937042
 - `Github` https://github.com/mmdapl
 - `CSDN博客` https://blog.csdn.net/Mmdapl
-- `掘金` https://juejin.im/user/448256476724807
+- `掘金社区` https://juejin.im/user/448256476724807
 
