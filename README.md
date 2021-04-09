@@ -1,10 +1,10 @@
 <!--
- * @Description: 
+ * @Description: 简单介绍
  * @Version: Beta1.0
  * @Author: 【B站&公众号】Rong姐姐好可爱
  * @Date: 2020-08-02 00:05:49
  * @LastEditors: 【B站&公众号】Rong姐姐好可爱
- * @LastEditTime: 2021-04-09 23:18:54
+ * @LastEditTime: 2021-04-09 23:24:22
 -->
 ## 我在做哪些事情？
 
@@ -27,7 +27,7 @@
 
 - `egg-sequelize-plus` https://github.com/mmdapl/egg-sequelize-plus
 - `egg-axios-plus`  https://github.com/mmdapl/egg-axios-plus
-- `grpc相关`  doing..
+- `grpc相关`   TBD
 
 ## 项目经历
 
@@ -43,12 +43,12 @@
 
 ## 联系方式
 
-「目前活跃于Bilibili、Github上，也注册了CSDN、掘金、公众号，均可直接搜：**Rong姐姐好可爱**
+目前活跃于Bilibili、Github上，也注册了CSDN、掘金、公众号，均可直接搜：**Rong姐姐好可爱** ，欢迎留言、私信交流~
 
 
+- `Gitee` https://gitee.com/mmdapl
 - `个人网站` https://142vip.cn/
 - `哔哩哔哩` https://space.bilibili.com/350937042
-- `Github` https://github.com/mmdapl
 - `CSDN博客` https://blog.csdn.net/Mmdapl
 - `掘金社区` https://juejin.im/user/448256476724807
 
