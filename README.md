@@ -1,12 +1,12 @@
 <!--
- * @Description: 简单介绍
+ * @Description: Github主页介绍
  * @Version: Beta1.0
  * @Author: 【B站&公众号】Rong姐姐好可爱
- * @Date: 2020-08-02 00:05:49
+ * @Date: 2020-07-02 00:05:49
  * @LastEditors: 【B站&公众号】Rong姐姐好可爱
  * @LastEditTime: 2021-04-24 09:04:53
 -->
-## 我在做哪些事情？
+
 
 ## 代码开源
 
