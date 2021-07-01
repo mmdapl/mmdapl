@@ -25,6 +25,8 @@
 
 ## Egg插件
 
+> 持续维护，grpc相关正在规划
+
 - `egg-sequelize-plus` https://github.com/mmdapl/egg-sequelize-plus
 - `egg-axios-plus`  https://github.com/mmdapl/egg-axios-plus
 - `grpc相关`   TBD
@@ -50,9 +52,8 @@
 
 目前活跃于Bilibili、Github上，也注册了CSDN、掘金、公众号，均可直接搜：**Rong姐姐好可爱** ，欢迎留言、私信交流~
 
-
+- `微信公众号` http://dsblb.cn/5MK8b
 - `Gitee` https://gitee.com/mmdapl
-- `个人博客` https://142vip.cn/
 - `哔哩哔哩` https://space.bilibili.com/350937042
 - `CSDN博客` https://blog.csdn.net/Mmdapl
 - `掘金社区` https://juejin.im/user/448256476724807
