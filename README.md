@@ -8,51 +8,54 @@
 -->
 
 
-## 代码开源
+## 开源笔记
 
-- `bilibili-reptile`： https://github.com/mmdapl/bilibili-reptile
-- `project-display`：https://github.com/mmdapl/project-display
+**利用业余时间，结合工作经验，以JavaScript和CS专业课为主题，持续维护的知识文档型仓库，文章会有选择性发表于公众号平台**
 
-## 维护仓库
-
-> 利用业余时间，结合工作经验，以JavaScript和CS专业课为主题，持续维护的知识文档型仓库，仓库内文章会有选择性发表于博客和公众号平台
-
-- `408CSFamily`  https://github.com/mmdapl/408CSFamily
+- 专注计算机基础知识：[408CSFamily](https://github.com/mmdapl/408CSFamily) 
   
-- `JavaScriptCollection` https://github.com/mmdapl/JavaScriptCollection
+- 专注前后端代码实战： [JavaScriptCollection](https://github.com/fairyfan1998/JavaScriptCollection)
 
 
 
-## Egg插件
 
-> 持续维护，grpc相关正在规划
+## 开源代码
 
-- `egg-sequelize-plus` https://github.com/mmdapl/egg-sequelize-plus
-- `egg-axios-plus`  https://github.com/mmdapl/egg-axios-plus
-- `grpc相关`   TBD
+### 脚手架
 
-<!-- ## 项目经历
+目前开发一款基础脚手架，取名为：[Fairy-Cli](https://github.com/fairyfan1998/fairy-cli)  并已发布到NPM。可以用来创建初始化项目，更多功能将持续开发..
 
-> 正在整理汇总
-
-### 工作项目
-> 采用分布式微服务架构的邮箱类项目，涉及服务网关、消息队列、Apollo配置中心、redis集群及优化、mysql集群及优化、grpc远程调用、Oauth2授权认证等功能的新框架重构项目，待整理
-
-#### 图片直播
-
-#### 分布式企业邮箱重构
+支持的框架：
+ 
+- [x] [Express.js框架](https://github.com/fairyfan1998/express-demo)
+- [X] [Egg.js框架](https://github.com/fairyfan1998/egg-demo)
+- [ ] Nest.js框架
+- [ ] Midway.js框架
+- [ ] Vue.js框架
+- [ ] Next.js框架
 
 
+欢迎提PR交流
 
-### 个人项目 -->
+    
+
+
+[comment]: <> (### Egg插件)
+
+
+[comment]: <> (- `egg-sequelize-plus` https://github.com/mmdapl/egg-sequelize-plus)
+
+[comment]: <> (- `egg-axios-plus`  https://github.com/mmdapl/egg-axios-plus)
+
+[comment]: <> (- `grpc相关`   TBD)
+
 
 
 
 ## 联系方式
 
-目前活跃于Bilibili、Github上，也注册了CSDN、掘金、公众号，均可直接搜：**Rong姐姐好可爱** ，欢迎留言、私信交流~
+目前活跃于Bilibili、Github上，也注册了CSDN、掘金、公众号，均可直接搜：**Rong姐姐好可爱** 
 
-- `微信公众号` http://dsblb.cn/5MK8b
 - `Gitee` https://gitee.com/mmdapl
 - `哔哩哔哩` https://space.bilibili.com/350937042
 - `CSDN博客` https://blog.csdn.net/Mmdapl
