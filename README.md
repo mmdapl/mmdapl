@@ -52,12 +52,75 @@
 
 
 
-## 联系方式
+## 我是谁，我在哪里，我想干什么!
 
-目前活跃于Bilibili、Github上，也注册了CSDN、掘金、公众号，均可直接搜：**Rong姐姐好可爱** 
-
-- `Gitee` https://gitee.com/mmdapl
-- `哔哩哔哩` https://space.bilibili.com/350937042
-- `CSDN博客` https://blog.csdn.net/Mmdapl
-- `掘金社区` https://juejin.im/user/448256476724807
+<div style="text-align: center">
+    <div class="code-statistic-container" style="width: 400px;padding: 20px;" align="center">
+        <img  src="https://github-profile-trophy.vercel.app/?username=mmdapl&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" />
+    </div>
+    <div class="data-statistic-container" align="center">
+        <table style="border:none;cell-padding:0; cell-spacing:0;border-collapse:collapse;" border="0">
+          <img height="160px" width="420px" style="margin:5px;" src="https://github-readme-stats.vercel.app/api?username=mmdapl&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+          <img height="160px" width="400px" style="padding:5px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmdapl&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+        </table>
+    </div>
+    <div  align="center" >
+        <table style="border:none;cell-padding:0; cell-spacing:0;border-collapse:collapse;" border="0">
+            <img src="https://cdn.staticaly.com/gh/142vip/cdn_service@main/media/fairy-sister-450x450.jpg" 
+                width="140px"
+                title="欢迎关注公众号:Rong姐姐好可爱" alt="关注公众号"/>
+            <img src="https://cdn.staticaly.com/gh/142vip/cdn_service@main/media/chu-fan-443-650x650.jpg"
+                width="140px"
+                title="欢迎添加微信：chufan443 " alt="联系作者"/>
+        </table>
+    </div>
+    <div  style="text-align: center;padding: 10px" align="center">
+        <a
+          href="https://github.com/mmdapl"
+          rel="nofollow noreferrer"
+          target="_blank"
+          title="点击跳转Github主页"
+        >
+          <img src="https://cdn.staticaly.com/gh/142vip/cdn_service@main/main-vip/svg/github.svg"
+            style="margin: 5px;width: 24px;height: 24px;">
+        </a>
+        <a
+          href="https://gitee.com/Mmdapl"
+          rel="nofollow noreferrer"
+          target="_blank"
+          title="点击跳转码云主页"
+        >
+          <img src="https://cdn.staticaly.com/gh/142vip/cdn_service@main/main-vip/svg/gitee.svg"
+            style="margin: 5px;width: 24px;height: 24px;">
+        </a>
+        <a
+          href="https://juejin.im/user/448256476724807"
+          rel="nofollow noreferrer"
+          target="_blank"
+          title="点击跳转掘金主页"
+        >
+          <img src="https://cdn.staticaly.com/gh/142vip/cdn_service@main/main-vip/svg/juejin.svg"
+            style="margin: 5px;width: 24px;height: 24px;">
+        </a>
+        <a
+          href="https://space.bilibili.com/350937042"
+          rel="nofollow noreferrer"
+          target="_blank"
+          title="点击跳转B站主页"
+        >
+          <img src="https://cdn.staticaly.com/gh/142vip/cdn_service@main/main-vip/svg/bilibili.svg"
+            style="margin: 5px;width: 24px;height: 24px;">
+        </a>
+        <a
+          href="https://blog.csdn.net/Mmdapl"
+          rel="nofollow noreferrer"
+          target="_blank"
+          title="点击跳转CSDN博客主页"
+        >
+          <img src="https://cdn.staticaly.com/gh/142vip/cdn_service@main/main-vip/svg/csdn.svg"
+            title="点击跳转CSDN博客主页"
+            style="margin: 5px;width: 24px;height: 24px;">
+        </a>
+    </div>
+</div>
 
