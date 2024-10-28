@@ -1,53 +1,74 @@
-<!--
- * @Description: Github主页介绍
- * @Version: Beta1.0
- * @Author: 【B站&公众号】Rong姐姐好可爱
- * @Date: 2020-07-02 00:05:49
- * @LastEditors: 【B站&公众号】Rong姐姐好可爱
- * @LastEditTime: 2021-04-24 09:04:53
--->
+
+## 持续更新
+
+**利用业余时间，结合工作经验，以JavaScript技术栈和CS专业课为主题，持续维护的仓库，文章会有选择性发表于公众号平台**
+
+- 工程基建：[@142vip/core-x](https://github.com/142vip/core-x)
+- 计算机基础知识：[408CSFamily](https://github.com/142vip/408CSFamily)
+- 前后端代码实战： [JavaScriptCollection](https://github.com/142vip/JavaScriptCollection)
 
 
-## 开源笔记
-
-**利用业余时间，结合工作经验，以JavaScript和CS专业课为主题，持续维护的知识文档型仓库，文章会有选择性发表于公众号平台**
-
-- 专注计算机基础知识：[408CSFamily](https://github.com/mmdapl/408CSFamily) 
-  
-- 专注前后端代码实战： [JavaScriptCollection](https://github.com/fairyfan1998/JavaScriptCollection)
-
-
+<a href="https://github.com/142vip/core-x" title="@142vip/core-x">
+  <picture>
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=142vip/core-x,142vip/408CSFamily,142vip/JavaScriptCollection&type=Date" />
+  </picture>
+</a>
 
 
 ## 开源代码
 
 ### 脚手架
 
-目前开发一款基础脚手架，取名为：[Fairy-Cli](https://github.com/fairyfan1998/fairy-cli)  并已发布到NPM。可以用来创建初始化项目，更多功能将持续开发..
+目前开发一款基础脚手架，取名为：[Fairy-Cli](https://github.com/142vip/core-x/tree/main/packages/fairy-cli) 可以用来创建初始化模板项目， 并已发布到NPM。
 
 支持的框架：
  
-- [x] [Express.js框架](https://github.com/fairyfan1998/express-demo)
-- [X] [Egg.js框架](https://github.com/fairyfan1998/egg-demo)
+- [ ] Express.js框架
+- [ ] Egg.js框架
 - [ ] Nest.js框架
 - [ ] Midway.js框架
 - [ ] Vue.js框架
 - [ ] Next.js框架
 
 
-欢迎提PR交流
+### NPM模块
 
-    
+- [ ] [@142vip/axios](https://www.npmjs.com/package/@142vip/axios)
+- [x] [@142vip/changelog](https://www.npmjs.com/package/@142vip/changelog)
+- [ ] [@142vip/egg](https://www.npmjs.com/package/@142vip/egg)
+- [ ] [@142vip/egg-axios](https://www.npmjs.com/package/@142vip/egg-axios)
+- [x] [@142vip/egg-grpc-client](https://www.npmjs.com/package/@142vip/egg-grpc-client)
+- [x] [@142vip/egg-grpc-server](https://www.npmjs.com/package/@142vip/egg-grpc-server)
+- [ ] [@142vip/egg-mysql](https://www.npmjs.com/package/@142vip/egg-mysql)
+- [ ] [@142vip/egg-redis](https://www.npmjs.com/package/@142vip/egg-redis)
+- [ ] [@142vip/egg-sequelize](https://www.npmjs.com/package/@142vip/egg-sequelize)
+- [ ] [@142vip/egg-swagger](https://www.npmjs.com/package/@142vip/egg-swagger)
+- [x] [@142vip/eslint-config](https://www.npmjs.com/package/@142vip/eslint-config)
+- [x] [@142vip/fairy-cli](https://www.npmjs.com/package/@142vip/fairy-cli)
+- [ ] [@142vip/nest](https://www.npmjs.com/package/@142vip/nest)
+- [ ] [@142vip/nest-redis](https://www.npmjs.com/package/@142vip/nest-redis)
+- [ ] [@142vip/nest-typeorm](https://www.npmjs.com/package/@142vip/axios)
+- [ ] [@142vip/oauth](https://www.npmjs.com/package/@142vip/oauth)
+- [ ] [@142vip/redis](https://www.npmjs.com/package/@142vip/redis)
+- [x] [@142vip/release-version](https://www.npmjs.com/package/@142vip/release-version)
+- [ ] [@142vip/typeorm](https://www.npmjs.com/package/@142vip/typeorm)
+- [x] [@142vip/utils](https://www.npmjs.com/package/@142vip/utils)
+- [x] [@141vip/vitepress](https://www.npmjs.com/package/@142vip/vitepress)
+- [x] [@142vip/vuepress](https://www.npmjs.com/package/@142vip/vuepress)
 
 
-[comment]: <> (### Egg插件)
+### 演示Demo
+
+- [ ] [egg-demo](https://github.com/142vip/core-x/tree/main/apps/egg-demo)
+- [ ] [express-demo](https://github.com/142vip/core-x/tree/main/apps/express-demo)
+- [x] [vue-demo](https://github.com/142vip/vue-demo)
+- [ ] [nest-demo](https://github.com/142vip/nest-demo)
+- [x] [vitepress-demo](https://github.com/142vip/core-x/tree/main/apps/vitepress-demo)
+- [x] [vuepress-demo](https://github.com/142vip/core-x/tree/main/apps/vuepress-demo)
+
+欢迎`Pull Request`交流
 
 
-[comment]: <> (- `egg-sequelize-plus` https://github.com/mmdapl/egg-sequelize-plus)
-
-[comment]: <> (- `egg-axios-plus`  https://github.com/mmdapl/egg-axios-plus)
-
-[comment]: <> (- `grpc相关`   TBD)
 
 
 
@@ -123,4 +144,5 @@
         </a>
     </div>
 </div>
+
 
