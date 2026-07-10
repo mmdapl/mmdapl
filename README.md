@@ -14,9 +14,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/142vip/core-x"><img width="280" src="https://github-stats-extended.vercel.app/api/pin/?username=142vip&repo=core-x&theme=dark&hide_border=true" alt="core-x" /></a>
-  <a href="https://github.com/142vip/408CSFamily"><img width="280" src="https://github-stats-extended.vercel.app/api/pin/?username=142vip&repo=408CSFamily&theme=dark&hide_border=true" alt="408CSFamily" /></a>
-  <a href="https://github.com/142vip/JavaScriptCollection"><img width="280" src="https://github-stats-extended.vercel.app/api/pin/?username=142vip&repo=JavaScriptCollection&theme=dark&hide_border=true" alt="JavaScriptCollection" /></a>
+  <a href="https://github.com/142vip/core-x"><img width="260" src="https://github-stats-extended.vercel.app/api/pin/?username=142vip&repo=core-x&theme=dark&hide_border=true" alt="core-x" /></a>
+  <a href="https://github.com/142vip/408CSFamily"><img width="260" src="https://github-stats-extended.vercel.app/api/pin/?username=142vip&repo=408CSFamily&theme=dark&hide_border=true" alt="408CSFamily" /></a>
+  <a href="https://github.com/142vip/JavaScriptCollection"><img width="260" src="https://github-stats-extended.vercel.app/api/pin/?username=142vip&repo=JavaScriptCollection&theme=dark&hide_border=true" alt="JavaScriptCollection" /></a>
 </p>
 
 
